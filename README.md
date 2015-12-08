@@ -1,6 +1,6 @@
-# PROJECT_NAME
+# Desk
 
-PROJECT_DESCRIPTION
+Direct manipulation for your mom.
 
 ## Running the project
 
